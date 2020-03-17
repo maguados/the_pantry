@@ -1,2 +1,2 @@
 # the_pantry
-Fun GitHub Checkpoint Assignment
+GitHub Checkpoint Assignment
